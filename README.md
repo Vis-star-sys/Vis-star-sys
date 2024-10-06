@@ -19,7 +19,7 @@ I’m a dedicated software engineer with a focus on building scalable web applic
 
 ## 🚀 Featured Projects
 Here are a few projects I’ve been working on recently:
-- **[My Portfolio](portfoliosv.netlify.app)** – A personal portfolio showcasing my web development projects, built with Tailwind CSS and GSAP for dynamic animations.
+- **[My Portfolio](https://github.com/Vis-star-sys/portfolio)** – A personal portfolio showcasing my web development projects, built with Tailwind CSS and GSAP for dynamic animations.
 - **[JavaScript Calculator](https://github.com/Vis-star-sys/js-calculator)** – A fully functional calculator web application built with JavaScript, focusing on code organization and modularity.
 
 ## 🌐 Let's Connect
