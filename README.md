@@ -1,51 +1,134 @@
-# Hi, I'm Vishal! 👋
+<h1 align="center">Hi 👋, I'm Vishal Suthar</h1>
 
-I’m a dedicated software engineer with a focus on building scalable web applications and delivering seamless user experiences. My expertise spans front-end development with modern JavaScript frameworks, styling with advanced CSS frameworks, and back-end development. I’m constantly learning and adapting to new technologies to solve real-world problems through code.
+<h3 align="center">🚀 MERN Stack Developer | Frontend Specialist | Problem Solver</h3>
 
-## 🛠 Tech Stack
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React.js, Tailwind CSS
-- **Back-End Technologies:** Node.js
-- **Currently Learning:** Flutter (Building cross-platform apps)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=MERN+Stack+Developer;Frontend+Lover;Building+Scalable+Apps;Always+Learning+New+Tech;Future+Full+Stack+Engineer" />
+</p>
 
-## 🌟 What I’m Passionate About
-- Writing clean, maintainable, and efficient code.
-- Creating responsive and accessible web applications.
-- Constantly improving and learning new technologies.
-- Engaging with the development community and contributing to open source.
+---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vis-star-sys&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vis-star-sys&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vis-star-sys&theme=radical)
+## 🧑‍💻 About Me  
 
-## 🏆 Achievements & Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vis-star-sys&theme=radical&margin-w=15&margin-h=15)
+- 💻 Passionate **Software Engineer**
+- 🚀 Focused on **MERN Stack Development**
+- 🎯 Building **scalable & user-friendly web apps**
+- 📱 Currently learning **Flutter**
+- ⚡ Love solving real-world problems with code  
 
-## 🛠 Skills & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+---
 
-## 📊 Contribution Graph
-![Vishal's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Vis-star-sys&theme=github)
+## 🛠 Tech Stack  
 
-## 🏅 Certifications
-- **JavaScript Algorithms and Data Structures** – freeCodeCamp
-- **Frontend Development** – Udemy
-- **Responsive Web Design** – freeCodeCamp
+### 🚀 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
+### 🎨 Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
+### 🔥 Backend (MERN)  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## 🚀 Featured Projects
-Here are a few projects I’ve been working on recently:
-- **[My Portfolio](https://github.com/Vis-star-sys/portfolio)** – A personal portfolio showcasing my web development projects, built with Tailwind CSS and GSAP for dynamic animations.
-- **[JavaScript Calculator](https://github.com/Vis-star-sys/js-calculator)** – A fully functional calculator web application built with JavaScript, focusing on code organization and modularity.
+### 🛠 Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-## 🌐 Let's Connect
-Feel free to reach out if you’d like to collaborate on projects, have any questions, or just want to chat about technology!
-- [LinkedIn](https://linkedin.com/in/Vishal-Suthar)
-- [Instagram](https://instagram.com/vs_suthar18)
+---
 
-💻 Check out my [repositories](https://github.com/Vis-star-sys?tab=repositories) for more insights into my work.
+## 🧠 Developer Mindset  
+
+✨ Clean Code Enthusiast  
+⚡ Performance Focused  
+🎨 UI/UX Lover  
+📚 Continuous Learner  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vis-star-sys&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vis-star-sys&theme=tokyonight&border_radius=10" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vis-star-sys&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vis-star-sys&theme=algolia&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🏅 Certifications  
+
+- 🟢 HackerRank JavaScript Certification  
+- ☁️ Google Cloud Certification  
+- 🎓 CodeUnnati Program  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 Portfolio Website  
+✨ Tailwind CSS + GSAP animations  
+🔗 https://github.com/Vis-star-sys/portfolio  
+
+---
+
+### 🔹 JavaScript Calculator  
+🧮 Logic-based clean calculator  
+🔗 https://github.com/Vis-star-sys/js-calculator  
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vis-star-sys&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/Vishal-Suthar">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://instagram.com/vs_suthar18">
+    <img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vis-star-sys&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+<h3 align="center">💡 "Code. Learn. Build. Repeat." 🚀</h3>
