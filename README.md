@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vis-star-sys/Vis-star-sys/main/banner.png.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Vishal Suthar</h1>
 
 <h3 align="center">🚀 MERN Stack Developer | Frontend Specialist | Problem Solver</h3>
