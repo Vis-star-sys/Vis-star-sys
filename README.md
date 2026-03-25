@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vis-star-sys/Vis-star-sys/main/banner.png.png" />
+  <img src="https://raw.githubusercontent.com/Vis-star-sys/Vis-star-sys/main/banner(1).png" />
 </p>
 <h1 align="center">Hi 👋, I'm Vishal Suthar</h1>
 
